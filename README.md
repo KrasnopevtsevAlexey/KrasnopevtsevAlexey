@@ -1,6 +1,6 @@
 ![Header](./assets/c6060934b339ff4f4f9cf7796a4744405111619bc74ab8b9bde739b29b28cf94.gif)
 
-<h1 align="center">Привет👋 Меня зовут Алексей!</h1>
+<h1 align="center">Hello👋 My name is Alexey!</h1>
 
 
 <h3 align="left">👩‍💻  Hard Skills</h3>
