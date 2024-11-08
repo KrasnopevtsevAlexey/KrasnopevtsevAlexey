@@ -12,16 +12,12 @@
 ##Soft Scills
 
 - Ability to clearly communicate ideas, both orally and in writing. 
-
 - Able to work effectively in a group on a project, share knowledge and support colleagues.
-
-- I am able to analyze an error, identify its root causes and find optimal solutions.
-  
-- Able to effectively prioritize tasks and meet project deadlines.
-  
+- I am able to analyze an error, identify its root causes and find optimal solutions. 
+- Able to effectively prioritize tasks and meet project deadlines. 
 - Ready for changes in technologies and approaches to work, ability to quickly learn new tools or programming languages.
-
 - I am able to understand and manage my own emotions, as well as interact effectively with colleagues and clients.
+  
 Latest YouTube Videos
 
 Languages and Tools
