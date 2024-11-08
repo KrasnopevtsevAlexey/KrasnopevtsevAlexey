@@ -8,6 +8,7 @@
 - React: Knowledgeable in building dynamic user interfaces with React, utilizing components, hooks, and state management.
 - Node.js: Proficient in developing server-side applications with Node.js, including RESTful APIs and middleware integration.
 - SQL: Experienced in database design and management, with proficiency in writing complex queries using SQL.
+  
 ##Soft Scills
 
 - Ability to clearly communicate ideas, both orally and in writing. 
