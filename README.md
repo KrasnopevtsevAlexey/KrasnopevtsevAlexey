@@ -50,6 +50,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>
+<img width="40" height="40" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 </div>
 
 ###
